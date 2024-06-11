@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://bilab.engineering.nyu.edu/'>New York University Building Informatics and Visualization Lab</a>. PhD in Civil Engineering
+subtitle: PhD in Civil Engineering, <a href='https://bilab.engineering.nyu.edu/'>New York University Building Informatics and Visualization Lab</a>. 
 
-profile:
+profile: 
   align: right
   image: headshot.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>4th floor, RH-432F</p>
     <p>6 MetroTech Center </p>
@@ -19,8 +19,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Experienced Research Assistant with extensive experience in the implementation of technology in civil engineering and construction management. My dissertation focuses on improving current building façade maintenance processes. For my research, I collaborated with 10+ industry partners to identify challenges in current façade inspection practice as well as developed a model-based and data-driven approach for comprehensive façade inspection guidance.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+During my tenure at New York University, I published eight papers in prestigious academic journals and conferences, including the Journal of Construction Engineering and Management, the Journal of Building Engineering, and Automation in Construction. My passion to support emerging young engineers led me to mentor undergraduate and high schools' students, in addition to two yeares of teaching experience I gained as a graduate teaching assistant.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am passianate to step into the built environment and apply my data analysis, BIM modeling, and problem-solving skills to solve some of the critical challenges the industry faces. 
+
+<blockqoute>
+  <span style="font-size:2em;">__*Enhancing building inspection in cities through modeling techniques for data management and visualization.*__</span>
+<blockqoute>
