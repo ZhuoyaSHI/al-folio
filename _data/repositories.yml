@@ -1,12 +1,8 @@
 github_users:
   - ZhuoyaSHI
 
-
 github_repos:
-
   - ZhuoyaSHI/Fine-tune-BERT-for-text-classification-with-TensorFlow
   - ZhuoyaSHI/NYU-DataScience-BootCamp-Spring23
   - ZhuoyaSHI/BCG-Data-Science-Advanced-Analytics-Virtual-Experience-Program
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+
