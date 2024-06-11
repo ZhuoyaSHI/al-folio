@@ -25,6 +25,8 @@ During my time at New York University, I published eight papers in prestigious a
 
 I am passianate to step into the built environment and apply my data analysis, BIM modeling, and problem-solving skills to solve some of the critical challenges the industry faces. 
 
+test test
+
 <blockqoute>
   <span style="color: purple; font-weight:bold; padding: 15px;"> * Enhancing building inspection in cities through modeling techniques for data management and visualization.* </span>
 <blockqoute>
