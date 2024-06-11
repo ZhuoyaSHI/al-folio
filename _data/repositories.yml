@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ZhuoyaSHI
+
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
+
+  - ZhuoyaSHI/Fine-tune-BERT-for-text-classification-with-TensorFlow
+  - ZhuoyaSHI/NYU-DataScience-BootCamp-Spring23
+  - ZhuoyaSHI/BCG-Data-Science-Advanced-Analytics-Virtual-Experience-Program
   - FortAwesome/Font-Awesome
   - jpswalsh/academicons
   - mathjax/MathJax
