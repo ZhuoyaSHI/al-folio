@@ -21,12 +21,11 @@ social: true  # includes social icons at the bottom of the page
 
 Experienced Research Assistant with extensive experience in the implementation of technology in civil engineering and construction management. My dissertation focuses on improving current building façade maintenance processes. For my research, I collaborated with 10+ industry partners to identify challenges in current façade inspection practice as well as developed a model-based and data-driven approach for comprehensive façade inspection guidance.
 
-During my time at New York University, I published eight papers in prestigious academic journals and conferences, including the *Journal of Construction Engineering and Management*, the *Journal of Building Engineering*, and *Automation in Construction*. My passion to support emerging young engineers led me to mentor undergraduate and high schools' students, in addition to two yeares of teaching experience I gained as a graduate teaching assistant.
+During my time at New York University, I published eight papers in prestigious academic journals and conferences, including *Automation in Construction*, *Journal of Construction Engineering and Management*, and *Journal of Building Engineering*. My passion to support emerging young engineers led me to mentor undergraduate and high schools' students, in addition to two yeares of teaching experience I gained as a graduate teaching assistant.
 
-I am passianate to step into the built environment and apply my data analysis, BIM modeling, and problem-solving skills to solve some of the critical challenges the industry faces. 
 
-test test
+
 
 <blockqoute>
-  <span style="color: purple; font-weight:bold; padding: 15px;"> * Enhancing building inspection in cities through modeling techniques for data management and visualization.* </span>
+  <span style="color: grey; font-weight:bold, italic; padding: 15px;">  Enhancing building inspection in cities through modeling techniques for data management and visualization. </span>
 <blockqoute>
