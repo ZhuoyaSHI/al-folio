@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Civil Engineering, <a href='https://bilab.engineering.nyu.edu/'>New York University Building Informatics and Visualization Lab</a>. 
+subtitle: PhD in Civil Engineering, <a href='https://bilab.engineering.nyu.edu/'>New York University</a>. 
 
 profile: 
   align: right
@@ -19,13 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Experienced Research Assistant with extensive experience in the implementation of technology in civil engineering and construction management. My dissertation focuses on improving current building façade maintenance processes. For my research, I collaborated with 10+ industry partners to identify challenges in current façade inspection practice as well as developed a model-based and data-driven approach for comprehensive façade inspection guidance.
+Experienced Data Scientist and Civil Engineer specializing in data analysis, modeling techniques, and digital transformation in the construction and civil engineering sectors. Proven ability to develop innovative solutions for data collection and visualization, with extensive experience in project management and collaboration with industry partners.
 
-During my time at New York University, I published eight papers in prestigious academic journals and conferences, including *Automation in Construction*, *Journal of Construction Engineering and Management*, and *Journal of Building Engineering*. My passion to support emerging young engineers led me to mentor undergraduate and high schools' students, in addition to two yeares of teaching experience I gained as a graduate teaching assistant.
+During my time at NYU, I published eight papers in prestigious academic journals and conferences, including *Automation in Construction*, *Journal of Construction Engineering and Management*, and *Journal of Building Engineering*. My passion to support emerging young engineers led me to mentor undergraduate and high school students, in addition to two years of teaching experience I gained as a graduate teaching assistant.
+<br>
+<br>
+<br>
 
-
-
-
-<blockqoute>
-  <span style="color: grey; font-weight:bold, italic; padding: 15px;">  Enhancing building inspection in cities through modeling techniques for data management and visualization. </span>
-<blockqoute>
+***Enhancing building inspection in cities through modeling techniques for data management and visualization.***
