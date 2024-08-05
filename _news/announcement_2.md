@@ -26,9 +26,9 @@ Title: Challenges in Façade Inspection: A Model-Based and Data-Driven Approach 
    - Implementation of visualization techniques to enhance inspectors’ understanding of façade conditions.
 
 #### Publications:
-- **Shi, Z., Park, K., and Ergan, S. (2024).** A Taxonomy of Urban Façade Defects and Their Distribution on Façade Components: A Data-driven Analysis of Historical Inspection Reports. *JCEM* (under 2nd round review).
-- **Shi, Z., and Ergan, S. (2024).** Design and Evaluation of Visualization Techniques to Facilitate Urban Façade Inspection. *Proceedings of i3CE*, July 28-31, 2024, Pittsburgh, PA.
-- **Shi, Z., Lee, Y., and Ergan, S. (2023).** Model-based Checklist Generation for Façade Safety Inspection Guidance. *Proceedings of i3CE*, June 25-28, 2023, Corvallis, Oregon.
+- **Shi, Z.** , Park, K., and Ergan, S. (2024).A Taxonomy of Urban Façade Defects and Their Distribution on Façade Components: A Data-driven Analysis of Historical Inspection Reports. *JCEM* (under 2nd round review).
+- **Shi, Z.**, and Ergan, S. (2024). Design and Evaluation of Visualization Techniques to Facilitate Urban Façade Inspection. *Proceedings of i3CE*, July 28-31, 2024, Pittsburgh, PA.
+- **Shi, Z.**, Lee, Y., and Ergan, S. (2023). Model-based Checklist Generation for Façade Safety Inspection Guidance. *Proceedings of i3CE*, June 25-28, 2023, Corvallis, Oregon.
 - And others spanning from 2018 to 2021, addressing various aspects of façade inspection and maintenance.
 
 #### Project Highlights:
@@ -41,11 +41,11 @@ Title: Challenges in Façade Inspection: A Model-Based and Data-Driven Approach 
 The poster presented at the conference provided a detailed visual summary of the research project, highlighting the methodologies, findings, and contributions to the field of façade inspection.
 
 #### Poster:
-[Download the PDF](/Users/joryashi/Documents/GitHub/ZhuoyaSHI.github.io/assets/pdf/Poster_i3ce2024.pdf)
+[Download the PDF](https://github.com/ZhuoyaSHI/ZhuoyaSHI.github.io/assets/pdf/Poster_i3ce2024.pdf)
 
-![PDF Preview](/Users/joryashi/Documents/GitHub/ZhuoyaSHI.github.io/assets/img/Poster_i3ce2024preview.png)
+![PDF Preview](https://github.com/ZhuoyaSHI/ZhuoyaSHI.github.io/assets/img/Poster_i3ce2024preview.png)
 
-<embed src="/Users/joryashi/Documents/GitHub/ZhuoyaSHI.github.io/assets/pdf/Poster_i3ce2024.pdf" type="application/pdf" width="600" height="400">
+<embed src="https://github.com/ZhuoyaSHI/ZhuoyaSHI.github.io/assets/pdf/Poster_i3ce2024.pdf" type="application/pdf" width="600" height="400">
 
 #### Conclusion
 
