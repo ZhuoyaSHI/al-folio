@@ -49,7 +49,7 @@ The poster presented at the conference provided a detailed visual summary of the
 
 <!-- <embed src="https://github.com/ZhuoyaSHI/ZhuoyaSHI.github.io/raw/master/assets/pdf/Poster_i3ce2024.pdf" type="application/pdf" width="600" height="400"> -->
 
-[Download the PDF](https://github.com/ZhuoyaSHI/ZhuoyaSHI.github.io/blob/master/assets/pdf/Poster_i3ce2024.pdf)
+<!-- [Download the PDF](https://github.com/ZhuoyaSHI/ZhuoyaSHI.github.io/blob/master/assets/pdf/Poster_i3ce2024.pdf) -->
 
 #### Conclusion
 
