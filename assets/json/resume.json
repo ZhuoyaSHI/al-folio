@@ -123,13 +123,42 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "name": "Data-driven Approach for Comprehensive Façade Inspection Guidance",
+      "summary": "Developed advanced ML algorithms for façade condition data extraction and analysis, providing inspection guidance in neighborhood and building scale (led 5 projects and published 10+ papers). ",
+      "highlights": [
+        "Natural Language Processing", 
+        "Geo-spatial clustering", 
+        "Domain Ontology", 
+        "Object-Oriented-Programming", 
+        "Low/High=Fidelity Prototyping", 
+        "Hypothesis Testing"
+      ],
+      "startDate": "2018-09-01",
+      "endDate": "2024-04-22",
       "url": "https://example.com"
-    }
+    },
+    {
+      "name": "Automated Data Extraction and Digital Transformation Pilot Studies",
+      "summary": "Developed and implemented data extraction algorithms, conducted software evaluations, and optimized data workflows for digital transformation initiatives.",
+      "highlights": [
+        "Python", 
+        "ETL"
+      ],
+      "startDate": "2022-09-01",
+      "endDate": "2023-05-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Python & Machine Learning Bootcamp for Students",
+      "summary": "Led Python and machine learning bootcamp, mentoring 10+ students, organizing brainstorm sessions, and tracking research progress.",
+      "highlights": [
+        "Machine Learning", 
+        "Mentorship"
+      ],
+      "startDate": "2022-09-01",
+      "endDate": "2023-05-01",
+      "url": "https://example.com"
+    },
   ],
 
   "education": [
@@ -218,12 +247,12 @@
     {
       "language": "Chinese (Mandarin)",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "🇨🇳"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "🇺🇸"
     }
   ],
   "interests": [],
