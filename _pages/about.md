@@ -25,7 +25,5 @@ During my time at NYU, I published eight papers in prestigious academic journals
 
 Highly motivated and detail-oriented research scientist with expertise in data analysis, machine learning algorithms, Natural Language Processing (NLP), image & video processing, Geo-spatial analysis, and data visualization. Proven track record of optimizing processes, achieving 93% accuracy in façade inspection reports analysis and 11% reduction in reporting time. Strong collaboration and leadership abilities. Seeking a data scientist role to apply analytical prowess and domain knowledge to real-world challenges.
 <br>
-<br>
-<br>
 
 ***I stand at the intersection of the built environment, technology, and safety, eager to apply my interdisciplinary knowledge to foster data-driven strategies for safer and more sustainable urban spaces. I am looking to continue developing as an urban strategist to explore innovative aspects of urban safety and smart city development.***
