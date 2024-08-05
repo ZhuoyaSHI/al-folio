@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: ZhuoyaShi_resume.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: ZhuoyaSHI_resume.pdf
+description: Ph.D.|Civil Engineer | Expert in NLP, Geo-spatial Clustering, and Data-Driven Solutions for Urban Façade Safety | NYU Alum
 toc:
   sidebar: left
 ---

@@ -41,7 +41,11 @@ Title: Challenges in Façade Inspection: A Model-Based and Data-Driven Approach 
 The poster presented at the conference provided a detailed visual summary of the research project, highlighting the methodologies, findings, and contributions to the field of façade inspection.
 
 #### Poster:
-![Research Poster](/Users/joryashi/Documents/GitHub/ZhuoyaSHI.github.io/assets/pdf/Poster_i3ce2024.pdf)
+[Download the PDF](/Users/joryashi/Documents/GitHub/ZhuoyaSHI.github.io/assets/pdf/Poster_i3ce2024.pdf)
+
+![PDF Preview](/Users/joryashi/Documents/GitHub/ZhuoyaSHI.github.io/assets/img/Poster_i3ce2024preview.png)
+
+<embed src="/Users/joryashi/Documents/GitHub/ZhuoyaSHI.github.io/assets/pdf/Poster_i3ce2024.pdf" type="application/pdf" width="600" height="400">
 
 #### Conclusion
 
