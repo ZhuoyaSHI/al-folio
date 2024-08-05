@@ -131,7 +131,9 @@
   "certificates": [
     {
       "Google" : "Google Data Analytics",
-      "DeepLearning.AI" : ["Deep Learning", "Generative Adversarial Networks (GAN)", "Natural Language Processing"]
+      "DeepLearning.AI" : [
+        "Deep Learning", "Generative Adversarial Networks (GAN)", "Natural Language Processing"
+      ]
     } 
   ],
   "publications": [],

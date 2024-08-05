@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Proud to have presented my conference paper on "Design and evaluation of visualization techniques to facilitate urban façade inspection." at the 2024 ASCE International Conference on
+Computing in Civil Engineering. :sparkles: :smile:
