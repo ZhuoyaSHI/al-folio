@@ -218,12 +218,12 @@
     {
       "language": "Chinese (Mandarin)",
       "fluency": "Native speaker",
-      "icon": "fa-solid fa-flag-china"
+      "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": "fa-solid fa-flag-usa"
+      "icon": ""
     }
   ],
   "interests": [],
