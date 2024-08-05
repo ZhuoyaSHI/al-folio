@@ -101,21 +101,21 @@
   "certificates": [
     {
       "name": "Google Data Analytics",
-      "date": "2022-05",
+      "date": "2022",
       "issuer": "Google",
       "url": "https://coursera.org/share/d012f1c2f63c01837e2f1c94992bb1f9",
       "icon": "fa-solid fa-certificate"
     },
     {
       "name": "Generative Adversarial Networks (GANs)",
-      "date": "2022-03",
+      "date": "2022",
       "issuer": "DeepLearning.AI",
       "url": "https://coursera.org/share/5029b94171376c6971da56c02b41374e",
       "icon": "fa-solid fa-certificate"
     },
     {
       "name": "Deep Learning",
-      "date": "2021-02",
+      "date": "2021",
       "issuer": "DeepLearning.AI",
       "url": "https://coursera.org/share/1e75e15e4fdc1e366e0b2a6bee0c33a4",
       "icon": "fa-solid fa-certificate"
@@ -202,7 +202,7 @@
       "publisher": "Journal of Building Engineering",
       "releaseDate": "2018",
       "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352710218305734",
-      "summary": "We investigates the impact of architectural design features on human experience using crowdsourced data. It identifies key design elements that significantly influence aspects such as restorativeness, stress and anxiety, aesthetics, and motivation. The findings provide a framework for objectively quantifying how design features affect human experiences in various spaces, offering practical insights for architects and designers to enhance built environments."
+      "summary": "This project investigates the impact of architectural design features on human experience using crowdsourced data. It identifies key design elements that significantly influence aspects such as restorativeness, stress and anxiety, aesthetics, and motivation. The findings provide a framework for objectively quantifying how design features affect human experiences in various spaces, offering practical insights for architects and designers to enhance built environments."
     },
     {
       "name": "Proactive 2D model-based scan planning for existing buildings",
@@ -218,19 +218,19 @@
     {
       "language": "Chinese (Mandarin)",
       "fluency": "Native speaker",
-      "icon": "🇨🇳"
+      "icon": "fa-solid fa-flag-china"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": "🇺🇸"
+      "icon": "fa-solid fa-flag-usa"
     }
   ],
   "interests": [],
   "references": [
     {
       "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
+      "icon": "fa-solid fa-user",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ]
