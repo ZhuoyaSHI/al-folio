@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Showcased my research project at 2024 ASCE International Conference on Computing in Civil Engineering
+title: Showcased my research project at i3ce 2024
 date: 2024-07-28 16:11:00-0400
 inline: false
 related_posts: false
@@ -41,11 +41,11 @@ Title: Challenges in Façade Inspection: A Model-Based and Data-Driven Approach 
 The poster presented at the conference provided a detailed visual summary of the research project, highlighting the methodologies, findings, and contributions to the field of façade inspection.
 
 #### Poster:
-[Download the PDF](https://github.com/ZhuoyaSHI/ZhuoyaSHI.github.io/assets/pdf/Poster_i3ce2024.pdf)
+[Download the PDF](https://github.com/ZhuoyaSHI/ZhuoyaSHI.github.io/raw/master/assets/Poster_i3ce2024.pdf)
 
-![PDF Preview](https://github.com/ZhuoyaSHI/ZhuoyaSHI.github.io/assets/img/Poster_i3ce2024preview.png)
+![PDF Preview](https://github.com/ZhuoyaSHI/ZhuoyaSHI.github.io/raw/master/assets/img/Poster_i3ce2024preview.png)
 
-<embed src="https://github.com/ZhuoyaSHI/ZhuoyaSHI.github.io/assets/pdf/Poster_i3ce2024.pdf" type="application/pdf" width="600" height="400">
+<embed src="https://github.com/ZhuoyaSHI/ZhuoyaSHI.github.io/raw/master/assets/Poster_i3ce2024.pdf" type="application/pdf" width="600" height="400">
 
 #### Conclusion
 
