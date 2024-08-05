@@ -74,7 +74,7 @@
       "endDate": "2024-05-10",
       "score": "",
       "courses": [
-        "Image and Video Processing","Machine Learning", "Robot Perception", "Data Structures and Algorithms","Travel Behavioral Informatics", "Project Management", "Design of HVAC Systems"
+        "Image and Video Processing","Machine Learning", "Robot Perception", "Data Structures and Algorithms","Travel Behavioral Informatics", "Project Management"
       ]
     },
     {
@@ -98,19 +98,42 @@
       "endDate": "2024-06-10",
       "score": "",
       "courses": [
-        "", "", ""
+      
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Provost TA's Scholarship",
+      "date": "2020",
+      "awarder": "Civil and Urban Engineering Department, New York University",
+      "summary": "'"
+    },
+    {
+      "title": "Institute of Design & Construction Innovation Hub (IDC) Foundation Scholarship",
+      "date": "2018",
+      "awarder": "New York University",
+      "summary": "'"
+    },
+    {
+      "title": "First-class Scholarship",
+      "date": "2011-2014",
+      "awarder": "School of Civil Engineering, Chang'an University",
+      "summary": "'"
+    },
+    {
+      "title": "Merit Student Cadre of Chang'an University",
+      "date": "2013",
+      "awarder": "Chang'an University",
+      "summary": "'"
     }
   ],
-  "certificates": [],
+  "certificates": [
+    {
+      "Google" : "Google Data Analytics",
+      "DeepLearning.AI" : ["Deep Learning", "Generative Adversarial Networks (GAN)", "Natural Language Processing"]
+    } 
+  ],
   "publications": [],
   "skills": [],
   "languages": [

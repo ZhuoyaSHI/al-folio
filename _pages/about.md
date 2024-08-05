@@ -22,9 +22,10 @@ social: true  # includes social icons at the bottom of the page
 <!-- Experienced Data Scientist and Civil Engineer specializing in data analysis, modeling techniques, and digital transformation in the construction and civil engineering sectors. Proven ability to develop innovative solutions for data collection and visualization, with extensive experience in project management and collaboration with industry partners.
 
 During my time at NYU, I published eight papers in prestigious academic journals and conferences, including *Automation in Construction*, *Journal of Construction Engineering and Management*, and *Journal of Building Engineering*. My passion to support emerging young engineers led me to mentor undergraduate and high school students, in addition to two years of teaching experience I gained as a graduate teaching assistant. -->
-Highly motivated and detail-oriented researcher with expertise in data analysis, machine learning algorithms, NLP, image & video processing, and data visualization. Proven track record of optimizing processes, achieving 93% accuracy in façade inspection reports analysis and 11% reduction in reporting time. Strong collaboration and leadership abilities. Seeking a data scientist role to apply analytical prowess and domain knowledge to real-world challenges.
+
+Highly motivated and detail-oriented research scientist with expertise in data analysis, machine learning algorithms, Natural Language Processing (NLP), image & video processing, Geo-spatial analysis, and data visualization. Proven track record of optimizing processes, achieving 93% accuracy in façade inspection reports analysis and 11% reduction in reporting time. Strong collaboration and leadership abilities. Seeking a data scientist role to apply analytical prowess and domain knowledge to real-world challenges.
 <br>
 <br>
 <br>
 
-***Enhancing building inspection in cities through modeling techniques for data management and visualization.***
+***I stand at the intersection of the built environment, technology, and safety, eager to apply my interdisciplinary knowledge to foster data-driven strategies for safer and more sustainable urban spaces. I am looking to continue developing as an urban strategist to explore innovative aspects of urban safety and smart city development.***
