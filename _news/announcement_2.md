@@ -6,27 +6,48 @@ inline: false
 related_posts: false
 ---
 
-Proud to have showcased my research project "A BIM-based and data-driven approach for comprehensive façade inspection guidance in cities." 
+I had the honor of presenting my research project at the 2024 ASCE International Conference on Computing in Civil Engineering (i3CE 2024) in Pittsburgh, PA. This conference is a premier event that gathers professionals, researchers, and academics to discuss the latest advancements in the integration of computing and civil engineering.
 
-***
+## Overview of the Research Project
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="/Users/joryashi/Documents/GitHub/ZhuoyaSHI.github.io/assets/pdf/Poster_i3ce2024.pdf">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+### Title: Challenges in Façade Inspection: A Model-Based and Data-Driven Approach for Comprehensive Façade Inspection Guidance in Cities
 
-#### Hipster list
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+#### Research Advisor:
+- Prof. Semiha Ergan, Associate Professor, Civil and Urban Engineering, NYU
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+### Key Contributions:
+1. **Taxonomies for Façade Component Hierarchies and Defect Types:**
+   - Development of comprehensive taxonomies mapping the relationships between façade components and defect types.
+   
+2. **Spatial Analysis of Defect Patterns:**
+   - Detailed spatial analysis of defect patterns across various neighborhoods in New York City.
+   
+3. **Façade Safety Inspection Domain Ontology:**
+   - Creation of an ontology and reasoning mechanisms to generate model-based inspection checklists.
+   
+4. **Integrated Visualization Techniques:**
+   - Implementation of visualization techniques to enhance inspectors’ understanding of façade conditions.
 
-***
+### Publications:
+- **Shi, Z., Park, K., and Ergan, S. (2024).** A Taxonomy of Urban Façade Defects and Their Distribution on Façade Components: A Data-driven Analysis of Historical Inspection Reports. *JCEM* (under 2nd round review).
+- **Shi, Z., and Ergan, S. (2024).** Design and Evaluation of Visualization Techniques to Facilitate Urban Façade Inspection. *Proceedings of i3CE*, July 28-31, 2024, Pittsburgh, PA.
+- **Shi, Z., Lee, Y., and Ergan, S. (2023).** Model-based Checklist Generation for Façade Safety Inspection Guidance. *Proceedings of i3CE*, June 25-28, 2023, Corvallis, Oregon.
+- And others spanning from 2018 to 2021, addressing various aspects of façade inspection and maintenance.
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+### Project Highlights:
+- Identification of façade inspection information requirements and generation of customized checklists based on the Building Information Modeling (BIM) of target buildings.
+- Visualization of façade condition data with integrated views, allowing for comprehensive understanding and analysis.
+- Utilization of Natural Language Processing (NLP) for historical inspection report analysis to identify defect patterns and inspection inefficiencies.
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+## Poster Presentation
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+The poster presented at the conference provided a detailed visual summary of the research project, highlighting the methodologies, findings, and contributions to the field of façade inspection.
+
+### Embedded Poster:
+![Research Poster](../assets/pdf/Poster_i3ce2024.pdf)
+
+## Conclusion
+
+Presenting at the 2024 ASCE International Conference on Computing in Civil Engineering was a remarkable experience that provided valuable exposure and feedback from industry experts and peers. The research not only contributes to the academic body of knowledge but also offers practical solutions for improving façade inspection processes in urban environments.
+
+I look forward to continuing this research and exploring new frontiers in civil engineering and computing.

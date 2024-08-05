@@ -30,11 +30,8 @@
       "endDate": "2024-05-10",
       "summary": "Research focusing on improving current building façade maintenance processes. Participated in quantification of architecture impact on humans in the built environment.",
       "highlights": [
-        "Conducted interviews with façade consulting experts from ten companies and NYC DOB group to identify key challenges.",
-        "Analyzed 2500+ reports using machine learning models, achieving 93% accuracy in identifying critical information.",
-        "Identified defect patterns in NYC neighborhoods by implementing spatial clustering analysis for buildings",
-        "Developed an object-oriented representation schema and reasoning mechanisms to generate customized checklists,improving 33% efficiency",
-        "Conducted hypothesis testing for 356 responses, identifying nine impactful architectural design features."
+        "Publication of 10 articles, in 8 of which I am the first author, achiving 130+ citations.",
+        "Awardee of Provost TA’s Scholarship, Institution of Design & Construction Innovation Hub Foundation Scholarship, and Scholar of Engineering Scholarship."
       ]
     },
     {
@@ -45,9 +42,7 @@
       "endDate": "2023-05-10",
       "summary": "Spearheaded digital practices for façade inspection.",
       "highlights": [
-        "Led initiatives for effective digital practice for façade inspection utilizing BIM and associated technology.",
-        "Initiated effective digital practices, designing a database for reports management, achieving an 11% reporting time saving.",
-        "Coordinated project meetings with four stakeholder companies, ensuring timely survey report submissions."
+        "Developed and implemented data extraction algorithms, conducted software evaluations, and optimized data workflows for digital transformation initiatives."
       ]
     },
     {
@@ -58,8 +53,7 @@
       "endDate": "2017-05-10",
       "summary": "Proactive 2D-based Scan Planning.",
       "highlights": [
-        "Prepared 2D CAD drawings for proactive scan planning of existing buildings.",
-        "Processed and analyzed point cloud data using Autodesk Recap and CloudCompare."
+        "Collected, processed and analyzed point cloud data to validate the proposed scan planning algorithm."
       ]
     }
   ],
@@ -98,7 +92,6 @@
       "endDate": "2024-06-10",
       "score": "",
       "courses": [
-      
       ]
     }
   ],
@@ -130,25 +123,111 @@
   ],
   "certificates": [
     {
-      "Google" : "Google Data Analytics",
-      "DeepLearning.AI" : [
-        "Deep Learning", "Generative Adversarial Networks (GAN)", "Natural Language Processing"
-      ]
-    } 
+      "name": "Google Data Analytics",
+      "date": "2022-05-06",
+      "issuer": "Google",
+      "url": "https://coursera.org/share/d012f1c2f63c01837e2f1c94992bb1f9",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Generative Adversarial Networks (GANs)",
+      "date": "2022-03-12",
+      "issuer": "DeepLearning.AI",
+      "url": "https://coursera.org/share/5029b94171376c6971da56c02b41374e",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Deep Learning",
+      "date": "2021-02-15",
+      "issuer": "DeepLearning.AI",
+      "url": "https://coursera.org/share/1e75e15e4fdc1e366e0b2a6bee0c33a4",
+      "icon": "fa-solid fa-location-dot"
+    }
   ],
-  "publications": [],
-  "skills": [],
+  "publications": [
+    {
+      "name": "Towards quantifying human experience in the built environment: A crowdsourcing based experiment to identify influential architectural design features",
+      "publisher": "Journal of Building Engineering",
+      "releaseDate": "2018",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352710218305734",
+      "summary": "We investigates the impact of architectural design features on human experience using crowdsourced data. It identifies key design elements that significantly influence aspects such as restorativeness, stress and anxiety, aesthetics, and motivation. The findings provide a framework for objectively quantifying how design features affect human experiences in various spaces, offering practical insights for architects and designers to enhance built environments."
+    },
+    {
+      "name": "Proactive 2D model-based scan planning for existing buildings",
+      "publisher": "Automation in Construction",
+      "releaseDate": "2018",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2352710218305734",
+      "summary": "We proposes a framework for optimizing scan planning using 2D models to improve the efficiency and accuracy of data collection for building information models (BIM). The framework integrates three search algorithms to generate initial scan plans and refine them, demonstrating that a combination of greedy search with backtracking and simulated annealing algorithms effectively enhances the scanning process, reducing the need for site revisits and improving overall data quality."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Language",
+      "level": "Master",
+      "icon": "fa-solid fa-laptop",
+      "keywords": [
+        "Python",
+        "SQL",
+        "R",
+        "Java",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Platform",
+      "level": "Master",
+      "icon": "fa-solid fa-cloud-upload-alt",
+      "keywords": [
+        "Google Colab",
+        "Amazon AWS",
+        "JupterLab",
+        "GitLab"
+      ]
+    },
+    {
+      "name": "Libraries & Tools",
+      "level": "Master",
+      "icon": "fa-solid fa-toolbox",
+      "keywords": [
+        "TensorFlow",
+        "Keras",
+        "Pytorch",
+        "Scikit-learn",
+        "NLTK",
+        "OpenCV"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "Chinese (Mandarin)",
-      "fluency": "Native speaker"
+      "fluency": "Native speaker",
+      "icon": "🇨🇳"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
+      "fluency": "Fluent",
+      "icon": "🇺🇸"
     }
   ],
   "interests": [],
-  "references": [],
-  "projects": []
+  // "references": [
+  //   {
+  //     "name": "Professor John Doe",
+  //     "icon": "fa-solid fa-laptop",
+  //     "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+  //   },
+  // ],
+  "projects": [
+    {
+      "name": "Quantum Computing",
+      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": "https://example.com"
+    }
+  ]
 }
