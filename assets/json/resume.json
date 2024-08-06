@@ -94,7 +94,16 @@
         "Pytorch",
         "Scikit-learn",
         "NLTK",
-        "OpenCV"
+        "OpenCV",
+        "Pandas", 
+        "NumPy", 
+        "GeoPandas", 
+        "Selenium", 
+        "Matplotlib", 
+        "Seaborn", 
+        "Plotly", 
+        "Git", 
+        "Tableau"
       ]
     }
   ],
