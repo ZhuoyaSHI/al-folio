@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: PhD in Civil Engineering, <a href='https://bilab.engineering.nyu.edu/'>New York University</a>. 
 
