@@ -23,7 +23,13 @@ social: true  # includes social icons at the bottom of the page
 
 During my time at NYU, I published eight papers in prestigious academic journals and conferences, including *Automation in Construction*, *Journal of Construction Engineering and Management*, and *Journal of Building Engineering*. My passion to support emerging young engineers led me to mentor undergraduate and high school students, in addition to two years of teaching experience I gained as a graduate teaching assistant. -->
 
-Highly motivated and detail-oriented research scientist with expertise in data analysis, machine learning algorithms, Natural Language Processing (NLP), image & video processing, Geo-spatial analysis, and data visualization. Proven track record of optimizing processes, achieving 93% accuracy in façade inspection reports analysis and 11% reduction in reporting time. Strong collaboration and leadership abilities. Seeking a data scientist role to apply analytical prowess and domain knowledge to real-world challenges.
+<!-- As a data scientist and researcher, I work at the intersection of urban infrastructure, advanced technology, and public safety. My research is centered on leveraging the power of AI, machine learning, and data analytics to enhance the safety, efficiency, and sustainability of urban environments. I am passionate about bridging the gap between academia and industry by applying research-driven strategies to real-world challenges, creating innovative solutions that not only improve the built environment but also elevate the quality of life for those living in our cities. Through my work, I strive to develop technologies and insights that support safer, smarter, and more resilient urban spaces. -->
+Focused on the integration of Artificial Intelligence (AI) and Machine Learning (ML) with Building Information Modeling
+(BIM), Natural Language Processing (NLP), and Geo-spatial Analysis to enhance urban infrastructure safety, efficiency, and
+sustainability. Key interests include AI-driven urban façade inspection, geospatial data analytics, and the application of NLP
+for civil engineering challenges. Dedicated to advancing smart city innovations and sustainable urban development through
+interdisciplinary research.
+<br>
 <br>
 
 ***I stand at the intersection of the built environment, technology, and safety, eager to apply my interdisciplinary knowledge to foster data-driven strategies for safer and more sustainable urban spaces. I am looking to continue developing as an urban strategist to explore innovative aspects of urban safety and smart city development.***

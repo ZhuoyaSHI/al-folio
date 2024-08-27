@@ -24,14 +24,17 @@
   "work": [
     {
       "name": "New York University",
-      "position": "Graduate Researcher",
+      "position": "Doctoral Research Fellowship",
       "url": "https://bilab.engineering.nyu.edu/projects/urban-facade-inspection",
       "startDate": "2017-09-01",
       "endDate": "2024-05-10",
-      "summary": "Research focusing on improving current building façade maintenance processes. Participated in quantification of architecture impact on humans in the built environment.",
-      "highlights": [
-        "Publication of 10 articles, in 8 of which I am the first author, achiving 130+ citations.",
-        "Awardee of Provost TA’s Scholarship, Institution of Design & Construction Innovation Hub Foundation Scholarship, and Scholar of Engineering Scholarship."
+      "summary1": "Data-driven Approach for Comprehensive Façade Inspection Guidance",
+      "highlights1": [
+        "Developed advanced Machine Learning algorithms for façade condition data extraction and analysis, providing inspection guidance in neighborhood and building scale. "     
+      ],
+      "summary2": "Neuroscience for architecture: Quantification of impact of architecture on human experience in the built environment.",
+      "highlights2": [
+        "Quantified architecture impact on humans through hypothesis testing and VR data collection, identifying key design features."
       ]
     },
     {
@@ -53,7 +56,7 @@
       "endDate": "2017-05-10",
       "summary": "Proactive 2D-based Scan Planning.",
       "highlights": [
-        "Collected, processed and analyzed point cloud data to validate the proposed scan planning algorithm."
+        "Collected, processed and analyzed TLS-collected point cloud and UAV-collected image data to validate the proposed scan planning algorithm."
       ]
     }
   ],
@@ -133,40 +136,41 @@
   "projects": [
     {
       "name": "Data-driven Approach for Comprehensive Façade Inspection Guidance",
-      "summary": "Developed advanced ML algorithms for façade condition data extraction and analysis, providing inspection guidance in neighborhood and building scale (led 5 projects and published 10+ papers). ",
       "highlights": [
-        "Natural Language Processing", 
-        "Geo-spatial clustering", 
-        "Domain Ontology", 
-        "Object-Oriented-Programming", 
-        "Low/High=Fidelity Prototyping", 
-        "Hypothesis Testing"
+        "Partnered with 10+ façade consulting teams and city agency, shadowed 7 inspection projects, held focus groups to identify three industry challenges, and interviewed inspectors to develop a three-level façade defect taxonomy.", 
+        "Extracted façade condition data from reports using NLP, achieved 93% accuracy in key information extraction from 3,000+ reports (Pandas, NumPy, NLTK, Vectorization, and bi-LSTM).", 
+        "Conducted geo-spatial analysis on NYC neighborhoods, identifying 4 building groups and defect patterns through two-step spatial clustering (PCA, Matplotlib, Seaborn, GeoPandas, DBSCAN, K-Means, Spatial Clustering,).", 
+        "Designed and implemented a checklist generation algorithm using UML and Python, achieving 82% precision and 100% recall (Python, UML, Object-Oriented-Programming, Domain Ontology).", 
+        "Developed visualization techniques improving inspectors' understanding of façade conditions, increasing assessment accuracy by 15% and efficiency by 47.6% (Low/High-Fidelity Prototyping, User Experience Design)."
       ],
       "startDate": "2018-09-01",
       "endDate": "2024-04-22",
-      "url": "https://example.com"
+      "url": "https://bilab.engineering.nyu.edu/projects/urban-facade-inspection"
+    },
+    {
+      "name": "Quantification of impact of architecture on human experience in the built environment",
+      "highlights": [
+        "Quantified architecture impact on humans through hypothesis testing and VR data collection, identifying 9 key design features (R, Hypothesis Testing, Bag of Words, Textual Data Visualization)."
+      ],
+      "startDate": "2017-09-01",
+      "endDate": "2018-08-22",
+      "url": "https://bilab.engineering.nyu.edu/projects/neuroscience-for-architecture"
     },
     {
       "name": "Automated Data Extraction and Digital Transformation Pilot Studies",
       "summary": "Developed and implemented data extraction algorithms, conducted software evaluations, and optimized data workflows for digital transformation initiatives.",
       "highlights": [
-        "Python", 
-        "ETL"
+        "Designed and implemented an algorithm to extract and structure data from Word documents into a database (Python, python-docx, pandas, SQL).", 
+        "Conducted pilot studies and evaluated software tools for digital transformation."
       ],
       "startDate": "2022-09-01",
-      "endDate": "2023-05-01",
-      "url": "https://example.com"
+      "endDate": "2023-05-01"
     },
     {
       "name": "Python & Machine Learning Bootcamp for Students",
       "summary": "Led Python and machine learning bootcamp, mentoring 10+ students, organizing brainstorm sessions, and tracking research progress.",
-      "highlights": [
-        "Machine Learning", 
-        "Mentorship"
-      ],
       "startDate": "2022-09-01",
-      "endDate": "2023-05-01",
-      "url": "https://example.com"
+      "endDate": "2023-05-01"
     }
   ],
 
@@ -180,7 +184,7 @@
       "endDate": "2024-05-10",
       "score": "",
       "courses": [
-        "Image and Video Processing","Machine Learning", "Robot Perception", "Data Structures and Algorithms","Travel Behavioral Informatics", "Project Management"
+        "Thesis: A BIM-based and data-driven approach for comprehensive façade inspection guidance in cities."
       ]
     },
     {
@@ -192,7 +196,7 @@
       "endDate": "2017-05-10",
       "score": "",
       "courses": [
-       "Introduction to Programming Systems Design", "Building Information Modeling and Integrated Practice", "Graduate Architecture Design", "Project Controls: Planning and Scheduling", "Project Controls: Budgeting and Estimating", "Advanced Building Estimating"
+      
       ]
     },
     {
@@ -263,14 +267,7 @@
       "fluency": "Fluent",
       "icon": "🇺🇸"
     }
-  ],
-  "interests": [],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-user",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
   ]
+
 }
 
