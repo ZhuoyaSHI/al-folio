@@ -28,13 +28,9 @@
       "url": "https://bilab.engineering.nyu.edu/projects/urban-facade-inspection",
       "startDate": "2017-09-01",
       "endDate": "2024-05-10",
-      "summary1": "Data-driven Approach for Comprehensive Façade Inspection Guidance",
-      "highlights1": [
+      "summary": "Data-driven Approach for Comprehensive Façade Inspection Guidance.",
+      "highlights": [
         "Developed advanced Machine Learning algorithms for façade condition data extraction and analysis, providing inspection guidance in neighborhood and building scale. "     
-      ],
-      "summary2": "Neuroscience for architecture: Quantification of impact of architecture on human experience in the built environment.",
-      "highlights2": [
-        "Quantified architecture impact on humans through hypothesis testing and VR data collection, identifying key design features."
       ]
     },
     {
